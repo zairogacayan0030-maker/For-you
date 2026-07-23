@@ -1,0 +1,17 @@
+.L1{
+    font-size: 48px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:red;
+    text-align: center;
+}
+.letter1{
+    border: 20px outret;
+    text-align: justify;
+    padding: 11px 5%;
+    margin: 13px 10%;
+    border-width: 25px 10%;
+    box-shadow: 12px 12px 14px black;
+    font-family: cursive;
+    text-transform: capitalize;
+}
+
